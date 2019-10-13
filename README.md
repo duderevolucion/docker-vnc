@@ -120,9 +120,6 @@ If you open some graphic/work intensive websites in the Docker container (especi
   
 Thx @raghavkarol for the hint! 
 
-## How to release
-See **[how-to-release.md](./how-to-release.md)**
-
 # Contributors
 
 This is (very slight) adaptation of ConSol Software's offering.
